@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hussein Berro</h1>
 <h3 align="center">A software developer from Lebanon</h3>
 <p align="center">
-  <img src="https://media1.tenor.com/m/7pyDepP8SOQAAAAC/cat-wif.gif" width="300"/>
+  <img src="https://gifdb.com/images/high/hard-working-cat-typing-dm9fptsxbvg1oxvf.webp" width="300"/>
 </p><p align="left"> <img src="https://komarev.com/ghpvc/?username=berro-1&label=Profile%20views&color=0e75b6&style=flat" alt="berro-1" /> </p>
 
 - 🌱 I’m currently learning **Laravel**
