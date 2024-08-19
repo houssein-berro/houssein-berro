@@ -2,7 +2,7 @@
 <h3 align="center">A software developer from Lebanon</h3>
 <p align="center">
   <img src="https://gifdb.com/images/high/hard-working-cat-typing-dm9fptsxbvg1oxvf.webp" width="300"/>
-</p><p align="left"> <img src="https://komarev.com/ghpvc/?username=berro-1&label=Profile%20views&color=0e75b6&style=flat" alt="berro-1" /> </p>
+</p><p align="left"> <img src="https://komarev.com/ghpvc/?username=houssein-berro&label=Profile%20views&color=0e75b6&style=flat" alt="houssein-berro" /> </p>
 
 - 🌱 I’m currently learning **Laravel**
 
@@ -104,8 +104,8 @@
 
 <div style="clear: both;"></div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=berro-1&show_icons=true&locale=en&layout=compact" alt="berro-1" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=houssein-berro&show_icons=true&locale=en&layout=compact" alt="houssein-berro" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berro-1&show_icons=true&locale=en" alt="berro-1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=houssein-berro&show_icons=true&locale=en" alt="houssein-berro" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berro-1&" alt="berro-1" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=houssein-berro&" alt="houssein-berro" /></p>
