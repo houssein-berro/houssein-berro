@@ -4,7 +4,6 @@
   <img src="https://gifdb.com/images/high/hard-working-cat-typing-dm9fptsxbvg1oxvf.webp" width="300"/>
 </p><p align="left"> <img src="https://komarev.com/ghpvc/?username=houssein-berro&label=Profile%20views&color=0e75b6&style=flat" alt="houssein-berro" /> </p>
 
-- 🌱 I’m currently learning **Laravel**
 
 ## 💬 Ask me about
 - Backend web development
@@ -58,9 +57,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
-  </a> 
+ <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/>
+  </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
   </a> 
